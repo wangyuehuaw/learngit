@@ -1,2 +1,3 @@
 this is in chuangqin frist gitfile.
 This not's an increase.
+Git has a mutable index called stage.
