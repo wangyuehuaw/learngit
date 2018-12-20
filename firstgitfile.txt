@@ -3,4 +3,6 @@ This not's an increase.
 Git has a mutable index called stage.
 
 creating a new branch quick.
+
+Creating a new branch is quick AND simple.
 此TXT文件用于学习本地存储关联远程仓库的git push origin master命令
