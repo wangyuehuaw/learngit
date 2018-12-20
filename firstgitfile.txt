@@ -1,3 +1,6 @@
 this is in chuangqin frist gitfile.
 This not's an increase.
 Git has a mutable index called stage.
+
+creating a new branch quick.
+此TXT文件用于学习本地存储关联远程仓库的git push origin master命令
